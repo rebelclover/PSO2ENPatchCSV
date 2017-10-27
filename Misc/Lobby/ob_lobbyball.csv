@@ -4,4 +4,4 @@ ScoreCall#0,"""GOAAAAL!!<br>$(0) scored a goal!<br>$(2) points added!  $(1) / $(
 GameSet#0,"""/toge $(0) has scored $(1) points!<br>Match Set! $(2) / $(2)"""
 ShowScore#0,"""Current Score: $(0) / $(1)"""
 ResetScore#0,"""Score has been reset.<br>Play the next match."""
-Async#0,"""現在個人モード中です"""
+Async#0,"""Currently in personal mode"""
